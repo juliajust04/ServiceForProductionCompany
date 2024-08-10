@@ -14,7 +14,6 @@ namespace ConsoleApp1.Models
         public string ModuleName2 { get; set; }
         public string ModuleName3 { get; set; }
         public string ModuleName4 { get; set; }
-        public string ModuleName5 { get; set; }
         public double ProductionCost { get; set; }
 
     }
